@@ -1,0 +1,19 @@
+{
+  "name": "mapbox.js-bower",
+  "version": "2.4.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hightower/mapbox.js-bower.git"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/hightower/mapbox.js-bower/issues"
+  },
+  "homepage": "https://github.com/hightower/mapbox.js-bower#readme"
+}
